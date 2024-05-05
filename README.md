@@ -246,7 +246,7 @@ Study of 89 Portugal Programmer salaries (MAY 2024)
 | IA            | 1                    | 502                             | 502                                             |                                                |                                                |                                          |
 | GameDev       | 0                    |                                 |                                                 |                                                |                                                |                                          |
 
-### Alojamento (Emprestimo Habit. T1) + Agua / Luz / Internet / telemovel + Transportes (720€) VS [Salário Líquido Mensal (IRS + Segurança Social)]
+### Alojamento (Renda Quarto) + Agua / Luz / Internet / telemovel + Transportes (720€) VS [Salário Líquido Mensal (IRS + Segurança Social)]
 
 | Cargo         | Nº Pessoas do Estudo | Média de Salario Líquido Mensal | Média de Salario Líquido Mensal (>=0 - <=1 exp) | Média de Salario Líquido Mensal (>1 - <=3 exp) | Média de Salario Líquido Mensal (>3 - <=5 exp) | Média de Salario Líquido Mensal (5+ exp) |
 | ------------- | -------------------- | ------------------------------- | ----------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
